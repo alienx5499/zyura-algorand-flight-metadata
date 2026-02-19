@@ -1,0 +1,47 @@
+{
+  "flight_number": "KE205",
+  "date": "2026-06-05",
+  "scheduled_departure_unix": 1780669715,
+  "origin": "MIA",
+  "destination": "SFO",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "9DQU6M",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sydney Porter",
+        "dateOfBirth": "1994-03-17",
+        "documentId": "P9DQU6M973",
+        "seat": "3D",
+        "email": "sydney.porter41@example.com",
+        "phone": "+1-336-293-1749"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525748,
+      "updated_at": 1771525748
+    },
+    {
+      "pnr": "LTA6KU",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Mitchell",
+        "dateOfBirth": "1955-04-04",
+        "documentId": "PLTA6KU308",
+        "seat": "14D",
+        "email": "riley.mitchell60@yahoo.com",
+        "phone": "+1-895-467-9849"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525748,
+      "updated_at": 1771525748
+    }
+  ],
+  "created_at": 1771525748,
+  "updated_at": 1771525748,
+  "delay_minutes": 0
+}
