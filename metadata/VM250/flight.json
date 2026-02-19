@@ -1,0 +1,30 @@
+{
+  "flight_number": "VM250",
+  "date": "2026-07-05",
+  "scheduled_departure_unix": 1783227865,
+  "origin": "SEA",
+  "destination": "IAD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "DAVNBD",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Finley Iqbal",
+        "dateOfBirth": "1961-03-09",
+        "documentId": "PDAVNBD265",
+        "seat": "24C",
+        "email": "finley.iqbal68@outlook.com",
+        "phone": "+1-333-287-3118"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525734,
+      "updated_at": 1771525734
+    }
+  ],
+  "created_at": 1771525734,
+  "updated_at": 1771525734,
+  "delay_minutes": 0
+}
