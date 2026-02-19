@@ -1,0 +1,30 @@
+{
+  "flight_number": "SQ831",
+  "date": "2026-07-23",
+  "scheduled_departure_unix": 1784804577,
+  "origin": "CLT",
+  "destination": "ORD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "Q3DDNC",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Morgan Hernandez",
+        "dateOfBirth": "1962-05-24",
+        "documentId": "PQ3DDNC769",
+        "seat": "17C",
+        "email": "morgan.hernandez38@example.com",
+        "phone": "+1-242-563-4339"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525745,
+      "updated_at": 1771525745
+    }
+  ],
+  "created_at": 1771525745,
+  "updated_at": 1771525745,
+  "delay_minutes": 0
+}
