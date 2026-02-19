@@ -1,0 +1,81 @@
+{
+  "flight_number": "SU763",
+  "date": "2026-05-04",
+  "scheduled_departure_unix": 1777866544,
+  "origin": "PHX",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "7MBECE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Bennett",
+        "dateOfBirth": "1979-10-24",
+        "documentId": "P7MBECE963",
+        "seat": "29A",
+        "email": "leah.bennett87@example.com",
+        "phone": "+1-662-819-6255"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525728,
+      "updated_at": 1771525728
+    },
+    {
+      "pnr": "WLQ5DZ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Jacobs",
+        "dateOfBirth": "1955-08-04",
+        "documentId": "PWLQ5DZ598",
+        "seat": "25F",
+        "email": "maya.jacobs38@outlook.com",
+        "phone": "+1-394-270-9175"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525728,
+      "updated_at": 1771525728
+    },
+    {
+      "pnr": "TR2UVN",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Ethan Hughes",
+        "dateOfBirth": "1972-11-01",
+        "documentId": "PTR2UVN860",
+        "seat": "17F",
+        "email": "ethan.hughes38@outlook.com",
+        "phone": "+1-740-818-7159"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525728,
+      "updated_at": 1771525728
+    },
+    {
+      "pnr": "35TZ6J",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Reese Fitzgerald",
+        "dateOfBirth": "1955-10-01",
+        "documentId": "P35TZ6J159",
+        "seat": "15E",
+        "email": "reese.fitzgerald28@gmail.com",
+        "phone": "+1-775-284-5529"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525728,
+      "updated_at": 1771525728
+    }
+  ],
+  "created_at": 1771525728,
+  "updated_at": 1771525728,
+  "delay_minutes": 0
+}
