@@ -1,0 +1,30 @@
+{
+  "flight_number": "AJ340",
+  "date": "2026-06-21",
+  "scheduled_departure_unix": 1782077910,
+  "origin": "DTW",
+  "destination": "IAD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "KKUFUW",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Avery Anderson",
+        "dateOfBirth": "1971-05-16",
+        "documentId": "PKKUFUW009",
+        "seat": "22C",
+        "email": "avery.anderson44@yahoo.com",
+        "phone": "+1-487-270-1951"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525764,
+      "updated_at": 1771525764
+    }
+  ],
+  "created_at": 1771525764,
+  "updated_at": 1771525764,
+  "delay_minutes": 0
+}
