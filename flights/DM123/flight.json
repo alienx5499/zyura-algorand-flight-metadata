@@ -1,0 +1,30 @@
+{
+  "flight_number": "DM123",
+  "date": "2026-08-15",
+  "scheduled_departure_unix": 1786804200,
+  "origin": "JFK",
+  "destination": "LAX",
+  "status": "scheduled",
+  "delay_minutes": 0,
+  "pnrs": [
+    {
+      "pnr": "ABC123",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Demo Passenger",
+        "dateOfBirth": "1990-05-15",
+        "documentId": "PABC123001",
+        "seat": "12A",
+        "email": "demo.passenger@example.com",
+        "phone": "+1-555-123-4567"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526514,
+      "updated_at": 1771526514
+    }
+  ],
+  "created_at": 1771526514,
+  "updated_at": 1771526514
+}
