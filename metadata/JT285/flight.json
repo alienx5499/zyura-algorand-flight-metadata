@@ -1,0 +1,47 @@
+{
+  "flight_number": "JT285",
+  "date": "2026-06-10",
+  "scheduled_departure_unix": 1781135264,
+  "origin": "SFO",
+  "destination": "JFK",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "MCREP7",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Jordan",
+        "dateOfBirth": "1999-03-06",
+        "documentId": "PMCREP7784",
+        "seat": "30B",
+        "email": "leah.jordan64@icloud.com",
+        "phone": "+1-742-705-6334"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525994,
+      "updated_at": 1771525994
+    },
+    {
+      "pnr": "E8CPMT",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Luca Keller",
+        "dateOfBirth": "2005-02-27",
+        "documentId": "PE8CPMT631",
+        "seat": "23A",
+        "email": "luca.keller17@outlook.com",
+        "phone": "+1-765-619-1021"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525994,
+      "updated_at": 1771525994
+    }
+  ],
+  "created_at": 1771525994,
+  "updated_at": 1771525994,
+  "delay_minutes": 0
+}
