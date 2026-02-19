@@ -1,0 +1,64 @@
+{
+  "flight_number": "UN950",
+  "date": "2026-08-09",
+  "scheduled_departure_unix": 1786236754,
+  "origin": "FLL",
+  "destination": "BOS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "RAMZE6",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Emerson Turner",
+        "dateOfBirth": "1957-07-27",
+        "documentId": "PRAMZE6744",
+        "seat": "7E",
+        "email": "emerson.turner89@yahoo.com",
+        "phone": "+1-648-492-7652"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525741,
+      "updated_at": 1771525741
+    },
+    {
+      "pnr": "NCV8AE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Noah Zimmerman",
+        "dateOfBirth": "1982-03-04",
+        "documentId": "PNCV8AE920",
+        "seat": "5C",
+        "email": "noah.zimmerman82@gmail.com",
+        "phone": "+1-371-208-6085"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525741,
+      "updated_at": 1771525741
+    },
+    {
+      "pnr": "KPWASL",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Reed",
+        "dateOfBirth": "1961-05-15",
+        "documentId": "PKPWASL124",
+        "seat": "9B",
+        "email": "leah.reed80@example.com",
+        "phone": "+1-655-505-4388"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525741,
+      "updated_at": 1771525741
+    }
+  ],
+  "created_at": 1771525741,
+  "updated_at": 1771525741,
+  "delay_minutes": 0
+}
