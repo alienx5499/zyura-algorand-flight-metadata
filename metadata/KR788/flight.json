@@ -1,0 +1,64 @@
+{
+  "flight_number": "KR788",
+  "date": "2026-03-24",
+  "scheduled_departure_unix": 1774329914,
+  "origin": "FLL",
+  "destination": "CLT",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "TER4MX",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Porter",
+        "dateOfBirth": "1968-08-07",
+        "documentId": "PTER4MX980",
+        "seat": "3C",
+        "email": "riley.porter65@gmail.com",
+        "phone": "+1-513-763-8581"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525996,
+      "updated_at": 1771525996
+    },
+    {
+      "pnr": "TLX9LW",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Reese Fitzgerald",
+        "dateOfBirth": "1972-10-21",
+        "documentId": "PTLX9LW391",
+        "seat": "23C",
+        "email": "reese.fitzgerald70@outlook.com",
+        "phone": "+1-842-319-2924"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525996,
+      "updated_at": 1771525996
+    },
+    {
+      "pnr": "NZRWVV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Zimmerman",
+        "dateOfBirth": "1959-11-17",
+        "documentId": "PNZRWVV800",
+        "seat": "12B",
+        "email": "caleb.zimmerman45@yahoo.com",
+        "phone": "+1-440-445-6869"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525996,
+      "updated_at": 1771525996
+    }
+  ],
+  "created_at": 1771525996,
+  "updated_at": 1771525996,
+  "delay_minutes": 0
+}
