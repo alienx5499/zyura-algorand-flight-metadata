@@ -1,9 +1,7 @@
 {
   "flight_number": "EQ441",
   "date": "2026-03-28",
-  "scheduled_departure_unix": 1774691674,
-  "origin": "JFK",
-  "destination": "CLT",
+  "scheduled_departure_unix": 1774691640,
   "status": "scheduled",
   "pnrs": [
     {
@@ -25,20 +23,27 @@
     },
     {
       "pnr": "XX6YYQ",
-      "policyId": "NA",
+      "policyId": 540178,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "SWV6A5XUESZP3EIZK76OP6KN7JPP4KPKTHOBDX5QA54YE3HSOB2OOY6YOY",
       "passenger": {
+        "name": "Zoe Garcia",
         "fullName": "Zoe Garcia",
-        "dateOfBirth": "1966-04-17",
-        "documentId": "PXX6YYQ111",
-        "seat": "3D",
         "email": "zoe.garcia47@icloud.com",
-        "phone": "+1-540-567-2789"
+        "phone": "+1-540-567-2789",
+        "phone_number": "+1-540-567-2789",
+        "date_of_birth": "1966-04-17",
+        "dateOfBirth": "1966-04-17",
+        "passport_number": "PXX6YYQ111",
+        "documentId": "PXX6YYQ111",
+        "address": null,
+        "seat": "3D",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771526725,
-      "updated_at": 1771526725
+      "nft_metadata_url": "https://is.gd/Vy29fx",
+      "created_at": 1771540196,
+      "updated_at": 1771540197
     },
     {
       "pnr": "BNJ35E",
@@ -93,6 +98,5 @@
     }
   ],
   "created_at": 1771526725,
-  "updated_at": 1771526725,
-  "delay_minutes": 0
+  "updated_at": 1771540197
 }
