@@ -1,0 +1,30 @@
+{
+  "flight_number": "HN834",
+  "date": "2026-06-11",
+  "scheduled_departure_unix": 1781154167,
+  "origin": "SEA",
+  "destination": "SFO",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "GH9VRT",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Logan Patel",
+        "dateOfBirth": "1982-02-04",
+        "documentId": "PGH9VRT042",
+        "seat": "4D",
+        "email": "logan.patel42@example.com",
+        "phone": "+1-513-383-6440"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526718,
+      "updated_at": 1771526718
+    }
+  ],
+  "created_at": 1771526718,
+  "updated_at": 1771526718,
+  "delay_minutes": 0
+}
