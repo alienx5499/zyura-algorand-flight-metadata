@@ -1,0 +1,81 @@
+{
+  "flight_number": "NW510",
+  "date": "2026-07-07",
+  "scheduled_departure_unix": 1783395926,
+  "origin": "DEN",
+  "destination": "MSP",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "U7G2CU",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Logan Thompson",
+        "dateOfBirth": "1958-09-26",
+        "documentId": "PU7G2CU299",
+        "seat": "18E",
+        "email": "logan.thompson33@example.com",
+        "phone": "+1-690-348-5435"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525757,
+      "updated_at": 1771525757
+    },
+    {
+      "pnr": "25RW74",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Bennett",
+        "dateOfBirth": "1981-04-12",
+        "documentId": "P25RW74671",
+        "seat": "3C",
+        "email": "riley.bennett28@example.com",
+        "phone": "+1-403-479-5226"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525757,
+      "updated_at": 1771525757
+    },
+    {
+      "pnr": "8RZM75",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Ellis",
+        "dateOfBirth": "1958-07-03",
+        "documentId": "P8RZM75530",
+        "seat": "3C",
+        "email": "riley.ellis76@yahoo.com",
+        "phone": "+1-215-356-4374"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525757,
+      "updated_at": 1771525757
+    },
+    {
+      "pnr": "2T796H",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Lena Campbell",
+        "dateOfBirth": "2003-01-14",
+        "documentId": "P2T796H175",
+        "seat": "30B",
+        "email": "lena.campbell35@gmail.com",
+        "phone": "+1-538-212-2049"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525757,
+      "updated_at": 1771525757
+    }
+  ],
+  "created_at": 1771525757,
+  "updated_at": 1771525757,
+  "delay_minutes": 0
+}
