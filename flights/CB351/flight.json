@@ -1,0 +1,34 @@
+{
+  "flight_number": "CB351",
+  "date": "2026-07-31",
+  "scheduled_departure_unix": 1785496440,
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "539FQK",
+      "policyId": 524822,
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "name": "Emerson Khan",
+        "fullName": "Emerson Khan",
+        "email": "emerson.khan54@gmail.com",
+        "phone": "+1-584-892-6390",
+        "phone_number": "+1-584-892-6390",
+        "date_of_birth": "1985-12-01",
+        "dateOfBirth": "1985-12-01",
+        "passport_number": "P539FQK442",
+        "documentId": "P539FQK442",
+        "address": null,
+        "seat": "4D",
+        "class": null,
+        "classType": null
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771524825,
+      "updated_at": 1771524825
+    }
+  ],
+  "created_at": 1771524825,
+  "updated_at": 1771524825
+}
