@@ -1,0 +1,30 @@
+{
+  "flight_number": "LD853",
+  "date": "2026-04-28",
+  "scheduled_departure_unix": 1777356090,
+  "origin": "DTW",
+  "destination": "BWI",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "WPSU3M",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Iris Mitchell",
+        "dateOfBirth": "1972-09-23",
+        "documentId": "PWPSU3M274",
+        "seat": "12F",
+        "email": "iris.mitchell90@example.com",
+        "phone": "+1-527-440-7241"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525726,
+      "updated_at": 1771525726
+    }
+  ],
+  "created_at": 1771525726,
+  "updated_at": 1771525726,
+  "delay_minutes": 0
+}
