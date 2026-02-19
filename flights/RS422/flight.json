@@ -1,0 +1,81 @@
+{
+  "flight_number": "RS422",
+  "date": "2026-04-05",
+  "scheduled_departure_unix": 1775423242,
+  "origin": "SFO",
+  "destination": "ORD",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "REXWH7",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jordan Foster",
+        "dateOfBirth": "1959-12-24",
+        "documentId": "PREXWH7007",
+        "seat": "1F",
+        "email": "jordan.foster39@gmail.com",
+        "phone": "+1-649-575-5071"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525758,
+      "updated_at": 1771525758
+    },
+    {
+      "pnr": "2JNHEM",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Isaac Turner",
+        "dateOfBirth": "1956-01-09",
+        "documentId": "P2JNHEM928",
+        "seat": "11D",
+        "email": "isaac.turner32@outlook.com",
+        "phone": "+1-545-748-8737"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525758,
+      "updated_at": 1771525758
+    },
+    {
+      "pnr": "KS4ZQX",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Rowan Patel",
+        "dateOfBirth": "1998-02-14",
+        "documentId": "PKS4ZQX629",
+        "seat": "29C",
+        "email": "rowan.patel64@example.com",
+        "phone": "+1-428-629-1092"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525758,
+      "updated_at": 1771525758
+    },
+    {
+      "pnr": "H557VF",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Ochoa",
+        "dateOfBirth": "1966-02-21",
+        "documentId": "PH557VF007",
+        "seat": "19B",
+        "email": "sasha.ochoa17@yahoo.com",
+        "phone": "+1-528-376-2695"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525758,
+      "updated_at": 1771525758
+    }
+  ],
+  "created_at": 1771525758,
+  "updated_at": 1771525758,
+  "delay_minutes": 0
+}
