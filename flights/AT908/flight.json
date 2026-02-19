@@ -1,27 +1,32 @@
 {
   "flight_number": "AT908",
   "date": "2026-03-30",
-  "scheduled_departure_unix": 1774879604,
-  "origin": "IAD",
-  "destination": "FLL",
+  "scheduled_departure_unix": 1774879560,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "C5A46W",
-      "policyId": "NA",
+      "policyId": 526889,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "CYEK2KMRXB6CPEJE4LKKFGQENUS5YMVEA6OY3BFN5OTTKTUHU3ETF6JFCU",
       "passenger": {
+        "name": "Emerson Silva",
         "fullName": "Emerson Silva",
-        "dateOfBirth": "1993-08-19",
-        "documentId": "PC5A46W466",
-        "seat": "11D",
         "email": "emerson.silva69@outlook.com",
-        "phone": "+1-525-733-8707"
+        "phone": "+1-525-733-8707",
+        "phone_number": "+1-525-733-8707",
+        "date_of_birth": "1993-08-19",
+        "dateOfBirth": "1993-08-19",
+        "passport_number": "PC5A46W466",
+        "documentId": "PC5A46W466",
+        "address": null,
+        "seat": "11D",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771526717,
-      "updated_at": 1771526717
+      "nft_metadata_url": "https://raw.githubusercontent.com/alienx5499/zyura-algorand-nft-metadata/main/metadata/CYEK2KMRXB6CPEJE4LKKFGQENUS5YMVEA6OY3BFN5OTTKTUHU3ETF6JFCU/526889/policy.json",
+      "created_at": 1771526891,
+      "updated_at": 1771526891
     },
     {
       "pnr": "DLUDWE",
@@ -42,6 +47,5 @@
     }
   ],
   "created_at": 1771526717,
-  "updated_at": 1771526717,
-  "delay_minutes": 0
+  "updated_at": 1771526891
 }
