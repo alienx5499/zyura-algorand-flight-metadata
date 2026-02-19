@@ -1,0 +1,30 @@
+{
+  "flight_number": "GY292",
+  "date": "2026-07-24",
+  "scheduled_departure_unix": 1784913614,
+  "origin": "ORD",
+  "destination": "SAN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "SK8PUB",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Usman",
+        "dateOfBirth": "1961-05-31",
+        "documentId": "PSK8PUB997",
+        "seat": "2E",
+        "email": "sasha.usman68@gmail.com",
+        "phone": "+1-716-363-3816"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525773,
+      "updated_at": 1771525773
+    }
+  ],
+  "created_at": 1771525773,
+  "updated_at": 1771525773,
+  "delay_minutes": 0
+}
