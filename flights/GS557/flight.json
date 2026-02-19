@@ -1,0 +1,64 @@
+{
+  "flight_number": "GS557",
+  "date": "2026-06-25",
+  "scheduled_departure_unix": 1782401527,
+  "origin": "DEN",
+  "destination": "SAN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "86A457",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Avery Simmons",
+        "dateOfBirth": "1981-06-05",
+        "documentId": "P86A457152",
+        "seat": "9F",
+        "email": "avery.simmons83@outlook.com",
+        "phone": "+1-889-370-9747"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526729,
+      "updated_at": 1771526729
+    },
+    {
+      "pnr": "KWZS3F",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Reese Patel",
+        "dateOfBirth": "1990-06-03",
+        "documentId": "PKWZS3F993",
+        "seat": "13E",
+        "email": "reese.patel87@example.com",
+        "phone": "+1-867-797-0799"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526729,
+      "updated_at": 1771526729
+    },
+    {
+      "pnr": "WT8575",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Hayden Mitchell",
+        "dateOfBirth": "1958-09-17",
+        "documentId": "PWT8575236",
+        "seat": "26D",
+        "email": "hayden.mitchell39@gmail.com",
+        "phone": "+1-871-597-5518"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526729,
+      "updated_at": 1771526729
+    }
+  ],
+  "created_at": 1771526729,
+  "updated_at": 1771526729,
+  "delay_minutes": 0
+}
