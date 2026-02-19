@@ -1,0 +1,64 @@
+{
+  "flight_number": "ND220",
+  "date": "2026-05-18",
+  "scheduled_departure_unix": 1779097873,
+  "origin": "MSP",
+  "destination": "BOS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "3BBX5P",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Miles Porter",
+        "dateOfBirth": "1990-08-13",
+        "documentId": "P3BBX5P825",
+        "seat": "13F",
+        "email": "miles.porter77@gmail.com",
+        "phone": "+1-620-236-4580"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525766,
+      "updated_at": 1771525766
+    },
+    {
+      "pnr": "MYUXW4",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Thompson",
+        "dateOfBirth": "1973-01-24",
+        "documentId": "PMYUXW4089",
+        "seat": "13B",
+        "email": "leah.thompson47@gmail.com",
+        "phone": "+1-445-378-7737"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525766,
+      "updated_at": 1771525766
+    },
+    {
+      "pnr": "5XYX8P",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Parker Patel",
+        "dateOfBirth": "1958-03-16",
+        "documentId": "P5XYX8P393",
+        "seat": "2A",
+        "email": "parker.patel70@gmail.com",
+        "phone": "+1-399-707-2389"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525766,
+      "updated_at": 1771525766
+    }
+  ],
+  "created_at": 1771525766,
+  "updated_at": 1771525766,
+  "delay_minutes": 0
+}
