@@ -1,0 +1,64 @@
+{
+  "flight_number": "FG561",
+  "date": "2026-07-26",
+  "scheduled_departure_unix": 1785087805,
+  "origin": "BOS",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "9FDLN4",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Theo Nguyen",
+        "dateOfBirth": "1961-02-04",
+        "documentId": "P9FDLN4024",
+        "seat": "17E",
+        "email": "theo.nguyen67@gmail.com",
+        "phone": "+1-835-559-0612"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525767,
+      "updated_at": 1771525767
+    },
+    {
+      "pnr": "HDQVHX",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Micah Thompson",
+        "dateOfBirth": "1957-10-30",
+        "documentId": "PHDQVHX881",
+        "seat": "30A",
+        "email": "micah.thompson79@gmail.com",
+        "phone": "+1-228-682-4683"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525767,
+      "updated_at": 1771525767
+    },
+    {
+      "pnr": "6R9KRZ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Walker",
+        "dateOfBirth": "2001-06-22",
+        "documentId": "P6R9KRZ592",
+        "seat": "8C",
+        "email": "leah.walker68@icloud.com",
+        "phone": "+1-600-338-0927"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525767,
+      "updated_at": 1771525767
+    }
+  ],
+  "created_at": 1771525767,
+  "updated_at": 1771525767,
+  "delay_minutes": 0
+}
