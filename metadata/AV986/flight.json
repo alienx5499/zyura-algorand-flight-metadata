@@ -1,0 +1,47 @@
+{
+  "flight_number": "AV986",
+  "date": "2026-06-29",
+  "scheduled_departure_unix": 1782768738,
+  "origin": "CLT",
+  "destination": "DEN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "UFBJCY",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Elena Campbell",
+        "dateOfBirth": "1982-06-15",
+        "documentId": "PUFBJCY372",
+        "seat": "13E",
+        "email": "elena.campbell37@outlook.com",
+        "phone": "+1-357-702-3486"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525743,
+      "updated_at": 1771525743
+    },
+    {
+      "pnr": "2JCFCG",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sawyer Turner",
+        "dateOfBirth": "1983-06-03",
+        "documentId": "P2JCFCG768",
+        "seat": "12C",
+        "email": "sawyer.turner64@outlook.com",
+        "phone": "+1-313-569-4774"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525743,
+      "updated_at": 1771525743
+    }
+  ],
+  "created_at": 1771525743,
+  "updated_at": 1771525743,
+  "delay_minutes": 0
+}
