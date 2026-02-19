@@ -1,0 +1,47 @@
+{
+  "flight_number": "TP370",
+  "date": "2026-08-13",
+  "scheduled_departure_unix": 1786656785,
+  "origin": "MSP",
+  "destination": "LAS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "C9DJL3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Mila Lawson",
+        "dateOfBirth": "1976-06-07",
+        "documentId": "PC9DJL3997",
+        "seat": "20D",
+        "email": "mila.lawson81@example.com",
+        "phone": "+1-427-853-1419"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526723,
+      "updated_at": 1771526723
+    },
+    {
+      "pnr": "VK2WQV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Nolan",
+        "dateOfBirth": "1998-04-01",
+        "documentId": "PVK2WQV768",
+        "seat": "15B",
+        "email": "maya.nolan41@icloud.com",
+        "phone": "+1-857-851-8564"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526723,
+      "updated_at": 1771526723
+    }
+  ],
+  "created_at": 1771526723,
+  "updated_at": 1771526723,
+  "delay_minutes": 0
+}
