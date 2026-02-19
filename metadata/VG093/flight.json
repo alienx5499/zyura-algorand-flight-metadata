@@ -1,0 +1,47 @@
+{
+  "flight_number": "VG093",
+  "date": "2026-06-26",
+  "scheduled_departure_unix": 1782473063,
+  "origin": "DTW",
+  "destination": "SLC",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "9NRJYB",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Parker Vargas",
+        "dateOfBirth": "1997-06-02",
+        "documentId": "P9NRJYB190",
+        "seat": "13D",
+        "email": "parker.vargas18@yahoo.com",
+        "phone": "+1-645-336-4505"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504178,
+      "updated_at": 1771504178
+    },
+    {
+      "pnr": "7UMS93",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Nico Usman",
+        "dateOfBirth": "2002-11-11",
+        "documentId": "P7UMS93362",
+        "seat": "6C",
+        "email": "nico.usman55@outlook.com",
+        "phone": "+1-218-477-8656"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504178,
+      "updated_at": 1771504178
+    }
+  ],
+  "created_at": 1771504178,
+  "updated_at": 1771504178,
+  "delay_minutes": 0
+}
