@@ -1,0 +1,30 @@
+{
+  "flight_number": "YQ134",
+  "date": "2026-03-25",
+  "scheduled_departure_unix": 1774453410,
+  "origin": "LAS",
+  "destination": "ATL",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "953JFC",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Luca Nolan",
+        "dateOfBirth": "1997-02-02",
+        "documentId": "P953JFC752",
+        "seat": "15F",
+        "email": "luca.nolan19@gmail.com",
+        "phone": "+1-878-294-2430"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526720,
+      "updated_at": 1771526720
+    }
+  ],
+  "created_at": 1771526720,
+  "updated_at": 1771526720,
+  "delay_minutes": 0
+}
