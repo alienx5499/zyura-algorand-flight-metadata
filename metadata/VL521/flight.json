@@ -1,0 +1,30 @@
+{
+  "flight_number": "VL521",
+  "date": "2026-04-23",
+  "scheduled_departure_unix": 1776964444,
+  "origin": "SFO",
+  "destination": "DTW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "CPWGD5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Vargas",
+        "dateOfBirth": "2004-04-04",
+        "documentId": "PCPWGD5034",
+        "seat": "12B",
+        "email": "maya.vargas20@yahoo.com",
+        "phone": "+1-527-432-5545"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504172,
+      "updated_at": 1771504172
+    }
+  ],
+  "created_at": 1771504172,
+  "updated_at": 1771504172,
+  "delay_minutes": 0
+}
