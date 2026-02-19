@@ -1,0 +1,64 @@
+{
+  "flight_number": "WE246",
+  "date": "2026-05-16",
+  "scheduled_departure_unix": 1778975467,
+  "origin": "DEN",
+  "destination": "SLC",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "3XTG7J",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Kai Silva",
+        "dateOfBirth": "1965-12-28",
+        "documentId": "P3XTG7J370",
+        "seat": "26D",
+        "email": "kai.silva94@gmail.com",
+        "phone": "+1-823-414-2862"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504177,
+      "updated_at": 1771504177
+    },
+    {
+      "pnr": "7A6R2R",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Zoe Coleman",
+        "dateOfBirth": "1985-08-27",
+        "documentId": "P7A6R2R430",
+        "seat": "3F",
+        "email": "zoe.coleman15@yahoo.com",
+        "phone": "+1-252-392-4072"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504177,
+      "updated_at": 1771504177
+    },
+    {
+      "pnr": "LLT5M3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Grayson",
+        "dateOfBirth": "1994-02-24",
+        "documentId": "PLLT5M3263",
+        "seat": "13C",
+        "email": "riley.grayson82@outlook.com",
+        "phone": "+1-322-373-6670"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504177,
+      "updated_at": 1771504177
+    }
+  ],
+  "created_at": 1771504177,
+  "updated_at": 1771504177,
+  "delay_minutes": 0
+}
