@@ -1,0 +1,47 @@
+{
+  "flight_number": "GJ932",
+  "date": "2026-08-13",
+  "scheduled_departure_unix": 1786649700,
+  "origin": "JFK",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "4R4F94",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Isaac Khan",
+        "dateOfBirth": "1967-11-17",
+        "documentId": "P4R4F94543",
+        "seat": "7F",
+        "email": "isaac.khan18@yahoo.com",
+        "phone": "+1-848-565-1778"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525983,
+      "updated_at": 1771525983
+    },
+    {
+      "pnr": "GEZBF5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Elena Patel",
+        "dateOfBirth": "1975-01-18",
+        "documentId": "PGEZBF5896",
+        "seat": "5F",
+        "email": "elena.patel18@example.com",
+        "phone": "+1-313-428-0423"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525983,
+      "updated_at": 1771525983
+    }
+  ],
+  "created_at": 1771525983,
+  "updated_at": 1771525983,
+  "delay_minutes": 0
+}
