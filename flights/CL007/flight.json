@@ -1,27 +1,32 @@
 {
   "flight_number": "CL007",
   "date": "2026-04-08",
-  "scheduled_departure_unix": 1775691776,
-  "origin": "ORD",
-  "destination": "SEA",
+  "scheduled_departure_unix": 1775691720,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "WRJN2B",
-      "policyId": "NA",
+      "policyId": 538988,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "SWV6A5XUESZP3EIZK76OP6KN7JPP4KPKTHOBDX5QA54YE3HSOB2OOY6YOY",
       "passenger": {
+        "name": "Riley Khan",
         "fullName": "Riley Khan",
-        "dateOfBirth": "1980-06-25",
-        "documentId": "PWRJN2B042",
-        "seat": "8D",
         "email": "riley.khan60@icloud.com",
-        "phone": "+1-532-670-0659"
+        "phone": "+1-532-670-0659",
+        "phone_number": "+1-532-670-0659",
+        "date_of_birth": "1980-06-25",
+        "dateOfBirth": "1980-06-25",
+        "passport_number": "PWRJN2B042",
+        "documentId": "PWRJN2B042",
+        "address": null,
+        "seat": "8D",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771526714,
-      "updated_at": 1771526714
+      "nft_metadata_url": "https://is.gd/84bYYL",
+      "created_at": 1771539010,
+      "updated_at": 1771539011
     },
     {
       "pnr": "EEG94X",
@@ -76,6 +81,5 @@
     }
   ],
   "created_at": 1771526714,
-  "updated_at": 1771526714,
-  "delay_minutes": 0
+  "updated_at": 1771539011
 }
