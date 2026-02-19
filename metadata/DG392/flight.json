@@ -1,0 +1,81 @@
+{
+  "flight_number": "DG392",
+  "date": "2026-03-28",
+  "scheduled_departure_unix": 1774700697,
+  "origin": "CLT",
+  "destination": "MIA",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "RZFEEG",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Iris Hernandez",
+        "dateOfBirth": "1976-12-01",
+        "documentId": "PRZFEEG722",
+        "seat": "6D",
+        "email": "iris.hernandez22@gmail.com",
+        "phone": "+1-453-691-7558"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525991,
+      "updated_at": 1771525991
+    },
+    {
+      "pnr": "MYGJED",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Zoe Hernandez",
+        "dateOfBirth": "2001-06-16",
+        "documentId": "PMYGJED722",
+        "seat": "24A",
+        "email": "zoe.hernandez33@gmail.com",
+        "phone": "+1-564-612-8559"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525991,
+      "updated_at": 1771525991
+    },
+    {
+      "pnr": "MFCUVM",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Isaac Silva",
+        "dateOfBirth": "1999-08-09",
+        "documentId": "PMFCUVM291",
+        "seat": "6A",
+        "email": "isaac.silva72@icloud.com",
+        "phone": "+1-832-761-4666"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525991,
+      "updated_at": 1771525991
+    },
+    {
+      "pnr": "SZC9BJ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Kai Thompson",
+        "dateOfBirth": "1969-03-28",
+        "documentId": "PSZC9BJ661",
+        "seat": "18D",
+        "email": "kai.thompson16@example.com",
+        "phone": "+1-434-715-3889"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525991,
+      "updated_at": 1771525991
+    }
+  ],
+  "created_at": 1771525991,
+  "updated_at": 1771525991,
+  "delay_minutes": 0
+}
