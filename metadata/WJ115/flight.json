@@ -1,0 +1,98 @@
+{
+  "flight_number": "WJ115",
+  "date": "2026-06-03",
+  "scheduled_departure_unix": 1780460329,
+  "origin": "SLC",
+  "destination": "DTW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "BTGQW2",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Finley Vargas",
+        "dateOfBirth": "1961-06-02",
+        "documentId": "PBTGQW2023",
+        "seat": "12F",
+        "email": "finley.vargas85@yahoo.com",
+        "phone": "+1-786-738-6268"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525976,
+      "updated_at": 1771525976
+    },
+    {
+      "pnr": "9F7SWT",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Mila Ramirez",
+        "dateOfBirth": "1982-05-28",
+        "documentId": "P9F7SWT492",
+        "seat": "15B",
+        "email": "mila.ramirez66@example.com",
+        "phone": "+1-764-434-7959"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525976,
+      "updated_at": 1771525976
+    },
+    {
+      "pnr": "PDXRPE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Lena Lawson",
+        "dateOfBirth": "1967-08-21",
+        "documentId": "PPDXRPE027",
+        "seat": "23A",
+        "email": "lena.lawson14@example.com",
+        "phone": "+1-649-606-8796"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525976,
+      "updated_at": 1771525976
+    },
+    {
+      "pnr": "CF97FN",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Nico Ochoa",
+        "dateOfBirth": "2000-08-14",
+        "documentId": "PCF97FN725",
+        "seat": "13E",
+        "email": "nico.ochoa80@gmail.com",
+        "phone": "+1-595-437-8163"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525976,
+      "updated_at": 1771525976
+    },
+    {
+      "pnr": "ZJG8ZY",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Ethan Turner",
+        "dateOfBirth": "1989-11-11",
+        "documentId": "PZJG8ZY755",
+        "seat": "12B",
+        "email": "ethan.turner70@icloud.com",
+        "phone": "+1-506-319-2696"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525976,
+      "updated_at": 1771525976
+    }
+  ],
+  "created_at": 1771525976,
+  "updated_at": 1771525976,
+  "delay_minutes": 0
+}
