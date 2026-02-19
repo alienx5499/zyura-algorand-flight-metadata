@@ -1,0 +1,64 @@
+{
+  "flight_number": "TR678",
+  "date": "2026-04-04",
+  "scheduled_departure_unix": 1775334708,
+  "origin": "SAN",
+  "destination": "FLL",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "ND9CRV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Kai Patel",
+        "dateOfBirth": "1980-11-19",
+        "documentId": "PND9CRV760",
+        "seat": "30D",
+        "email": "kai.patel18@icloud.com",
+        "phone": "+1-721-739-7411"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526724,
+      "updated_at": 1771526724
+    },
+    {
+      "pnr": "5NMF27",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Garcia",
+        "dateOfBirth": "1974-10-05",
+        "documentId": "P5NMF27409",
+        "seat": "11D",
+        "email": "caleb.garcia94@yahoo.com",
+        "phone": "+1-859-710-5760"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526724,
+      "updated_at": 1771526724
+    },
+    {
+      "pnr": "YGLRRE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Finley Thompson",
+        "dateOfBirth": "1975-12-31",
+        "documentId": "PYGLRRE377",
+        "seat": "16B",
+        "email": "finley.thompson87@example.com",
+        "phone": "+1-638-300-6813"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526724,
+      "updated_at": 1771526724
+    }
+  ],
+  "created_at": 1771526724,
+  "updated_at": 1771526724,
+  "delay_minutes": 0
+}
