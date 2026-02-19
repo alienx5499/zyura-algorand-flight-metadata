@@ -1,0 +1,64 @@
+{
+  "flight_number": "CW010",
+  "date": "2026-05-11",
+  "scheduled_departure_unix": 1778511112,
+  "origin": "BWI",
+  "destination": "SEA",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "2B3LHJ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jordan Simmons",
+        "dateOfBirth": "1959-04-17",
+        "documentId": "P2B3LHJ342",
+        "seat": "27D",
+        "email": "jordan.simmons98@icloud.com",
+        "phone": "+1-876-694-2466"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525765,
+      "updated_at": 1771525765
+    },
+    {
+      "pnr": "D2KY9Y",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Owens",
+        "dateOfBirth": "2002-08-31",
+        "documentId": "PD2KY9Y525",
+        "seat": "1A",
+        "email": "leah.owens76@icloud.com",
+        "phone": "+1-479-891-7046"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525765,
+      "updated_at": 1771525765
+    },
+    {
+      "pnr": "47A2FT",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Garcia",
+        "dateOfBirth": "1988-08-02",
+        "documentId": "P47A2FT622",
+        "seat": "12B",
+        "email": "leah.garcia16@outlook.com",
+        "phone": "+1-791-888-8552"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525765,
+      "updated_at": 1771525765
+    }
+  ],
+  "created_at": 1771525765,
+  "updated_at": 1771525765,
+  "delay_minutes": 0
+}
