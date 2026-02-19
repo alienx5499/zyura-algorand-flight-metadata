@@ -1,0 +1,81 @@
+{
+  "flight_number": "KE412",
+  "date": "2026-03-17",
+  "scheduled_departure_unix": 1773770244,
+  "origin": "DTW",
+  "destination": "LAX",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "A6VCFQ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Zoe Iqbal",
+        "dateOfBirth": "1984-09-23",
+        "documentId": "PA6VCFQ719",
+        "seat": "30F",
+        "email": "zoe.iqbal46@icloud.com",
+        "phone": "+1-484-468-3169"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525775,
+      "updated_at": 1771525775
+    },
+    {
+      "pnr": "8XGBWR",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Noah Jordan",
+        "dateOfBirth": "1957-03-05",
+        "documentId": "P8XGBWR970",
+        "seat": "20E",
+        "email": "noah.jordan91@outlook.com",
+        "phone": "+1-869-811-0526"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525775,
+      "updated_at": 1771525775
+    },
+    {
+      "pnr": "LW9N8F",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Noah Coleman",
+        "dateOfBirth": "2001-07-14",
+        "documentId": "PLW9N8F455",
+        "seat": "17A",
+        "email": "noah.coleman25@example.com",
+        "phone": "+1-840-457-7604"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525775,
+      "updated_at": 1771525775
+    },
+    {
+      "pnr": "ACNFU5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Reese Bennett",
+        "dateOfBirth": "1985-05-29",
+        "documentId": "PACNFU5550",
+        "seat": "6F",
+        "email": "reese.bennett50@outlook.com",
+        "phone": "+1-311-889-0819"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525775,
+      "updated_at": 1771525775
+    }
+  ],
+  "created_at": 1771525775,
+  "updated_at": 1771525775,
+  "delay_minutes": 0
+}
