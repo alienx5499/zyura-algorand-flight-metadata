@@ -1,0 +1,81 @@
+{
+  "flight_number": "ZQ659",
+  "date": "2026-08-16",
+  "scheduled_departure_unix": 1786879063,
+  "origin": "SAN",
+  "destination": "MIA",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "GMKLUH",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Patel",
+        "dateOfBirth": "1993-09-22",
+        "documentId": "PGMKLUH966",
+        "seat": "28D",
+        "email": "riley.patel30@yahoo.com",
+        "phone": "+1-491-461-4586"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525769,
+      "updated_at": 1771525769
+    },
+    {
+      "pnr": "BFMVTL",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Mitchell",
+        "dateOfBirth": "1956-02-09",
+        "documentId": "PBFMVTL503",
+        "seat": "8F",
+        "email": "caleb.mitchell92@icloud.com",
+        "phone": "+1-303-277-3643"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525769,
+      "updated_at": 1771525769
+    },
+    {
+      "pnr": "48LG4N",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Jordan",
+        "dateOfBirth": "1959-11-25",
+        "documentId": "P48LG4N903",
+        "seat": "18D",
+        "email": "maya.jordan24@outlook.com",
+        "phone": "+1-411-815-8675"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525769,
+      "updated_at": 1771525769
+    },
+    {
+      "pnr": "N2BRE4",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Emerson Walker",
+        "dateOfBirth": "1991-04-26",
+        "documentId": "PN2BRE4188",
+        "seat": "18C",
+        "email": "emerson.walker12@example.com",
+        "phone": "+1-518-447-5559"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525769,
+      "updated_at": 1771525769
+    }
+  ],
+  "created_at": 1771525769,
+  "updated_at": 1771525769,
+  "delay_minutes": 0
+}
