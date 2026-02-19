@@ -1,0 +1,64 @@
+{
+  "flight_number": "GC994",
+  "date": "2026-06-04",
+  "scheduled_departure_unix": 1780541831,
+  "origin": "DFW",
+  "destination": "SFO",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "QLFKEN",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Luca Nolan",
+        "dateOfBirth": "1989-10-10",
+        "documentId": "PQLFKEN238",
+        "seat": "22B",
+        "email": "luca.nolan70@gmail.com",
+        "phone": "+1-266-794-6402"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526731,
+      "updated_at": 1771526731
+    },
+    {
+      "pnr": "K3P3B2",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Lawson",
+        "dateOfBirth": "1977-07-05",
+        "documentId": "PK3P3B2208",
+        "seat": "28F",
+        "email": "sasha.lawson19@example.com",
+        "phone": "+1-638-893-1972"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526731,
+      "updated_at": 1771526731
+    },
+    {
+      "pnr": "AJWWJ8",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Micah Turner",
+        "dateOfBirth": "1976-08-06",
+        "documentId": "PAJWWJ8222",
+        "seat": "3C",
+        "email": "micah.turner24@outlook.com",
+        "phone": "+1-275-260-9892"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526731,
+      "updated_at": 1771526731
+    }
+  ],
+  "created_at": 1771526731,
+  "updated_at": 1771526731,
+  "delay_minutes": 0
+}
