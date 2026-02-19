@@ -1,0 +1,64 @@
+{
+  "flight_number": "DR112",
+  "date": "2026-04-28",
+  "scheduled_departure_unix": 1777410404,
+  "origin": "BWI",
+  "destination": "LAS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "6VJY22",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Taylor Khan",
+        "dateOfBirth": "1969-09-02",
+        "documentId": "P6VJY22721",
+        "seat": "26C",
+        "email": "taylor.khan84@icloud.com",
+        "phone": "+1-220-717-1032"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525998,
+      "updated_at": 1771525998
+    },
+    {
+      "pnr": "S2ZN9M",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Ochoa",
+        "dateOfBirth": "1975-07-30",
+        "documentId": "PS2ZN9M847",
+        "seat": "27D",
+        "email": "caleb.ochoa49@gmail.com",
+        "phone": "+1-541-522-2464"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525998,
+      "updated_at": 1771525998
+    },
+    {
+      "pnr": "M3VWGQ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Avery Jacobs",
+        "dateOfBirth": "1957-08-03",
+        "documentId": "PM3VWGQ880",
+        "seat": "6F",
+        "email": "avery.jacobs97@example.com",
+        "phone": "+1-770-715-6072"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525998,
+      "updated_at": 1771525998
+    }
+  ],
+  "created_at": 1771525998,
+  "updated_at": 1771525998,
+  "delay_minutes": 0
+}
