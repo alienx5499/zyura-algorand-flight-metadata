@@ -1,0 +1,47 @@
+{
+  "flight_number": "TF536",
+  "date": "2026-03-08",
+  "scheduled_departure_unix": 1773014297,
+  "origin": "CLT",
+  "destination": "BOS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "3Y4Z24",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Vargas",
+        "dateOfBirth": "1974-02-04",
+        "documentId": "P3Y4Z24207",
+        "seat": "13F",
+        "email": "sasha.vargas16@example.com",
+        "phone": "+1-281-484-3393"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526715,
+      "updated_at": 1771526715
+    },
+    {
+      "pnr": "4ZFPJD",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Lawson",
+        "dateOfBirth": "1957-11-04",
+        "documentId": "P4ZFPJD292",
+        "seat": "23E",
+        "email": "leah.lawson80@icloud.com",
+        "phone": "+1-236-848-8536"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526715,
+      "updated_at": 1771526715
+    }
+  ],
+  "created_at": 1771526715,
+  "updated_at": 1771526715,
+  "delay_minutes": 0
+}
