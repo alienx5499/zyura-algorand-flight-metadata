@@ -1,0 +1,98 @@
+{
+  "flight_number": "NF515",
+  "date": "2026-08-18",
+  "scheduled_departure_unix": 1787037430,
+  "origin": "DTW",
+  "destination": "BOS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "65BFYD",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jude Ellis",
+        "dateOfBirth": "1994-03-10",
+        "documentId": "P65BFYD422",
+        "seat": "22A",
+        "email": "jude.ellis62@icloud.com",
+        "phone": "+1-416-674-0177"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525988,
+      "updated_at": 1771525988
+    },
+    {
+      "pnr": "7CCMP5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Fitzgerald",
+        "dateOfBirth": "1999-09-06",
+        "documentId": "P7CCMP5653",
+        "seat": "22A",
+        "email": "caleb.fitzgerald87@example.com",
+        "phone": "+1-435-294-0367"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525988,
+      "updated_at": 1771525988
+    },
+    {
+      "pnr": "43QSEP",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Lawson",
+        "dateOfBirth": "1958-06-13",
+        "documentId": "P43QSEP982",
+        "seat": "21E",
+        "email": "caleb.lawson61@icloud.com",
+        "phone": "+1-246-691-1237"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525988,
+      "updated_at": 1771525988
+    },
+    {
+      "pnr": "YZ8QEP",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Luca Fitzgerald",
+        "dateOfBirth": "1958-05-08",
+        "documentId": "PYZ8QEP114",
+        "seat": "27C",
+        "email": "luca.fitzgerald61@icloud.com",
+        "phone": "+1-606-460-2928"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525988,
+      "updated_at": 1771525988
+    },
+    {
+      "pnr": "BRSHKL",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Morgan Anderson",
+        "dateOfBirth": "1988-10-12",
+        "documentId": "PBRSHKL280",
+        "seat": "27F",
+        "email": "morgan.anderson87@yahoo.com",
+        "phone": "+1-761-630-0999"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525988,
+      "updated_at": 1771525988
+    }
+  ],
+  "created_at": 1771525988,
+  "updated_at": 1771525988,
+  "delay_minutes": 0
+}
