@@ -1,0 +1,47 @@
+{
+  "flight_number": "VU740",
+  "date": "2026-07-11",
+  "scheduled_departure_unix": 1783729421,
+  "origin": "SFO",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "AHLUB2",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Quinn Ellis",
+        "dateOfBirth": "1974-09-17",
+        "documentId": "PAHLUB2051",
+        "seat": "27A",
+        "email": "quinn.ellis95@icloud.com",
+        "phone": "+1-240-352-7575"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526719,
+      "updated_at": 1771526719
+    },
+    {
+      "pnr": "TXW289",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Mason Campbell",
+        "dateOfBirth": "1994-03-07",
+        "documentId": "PTXW289183",
+        "seat": "23E",
+        "email": "mason.campbell64@yahoo.com",
+        "phone": "+1-493-578-8985"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526719,
+      "updated_at": 1771526719
+    }
+  ],
+  "created_at": 1771526719,
+  "updated_at": 1771526719,
+  "delay_minutes": 0
+}
