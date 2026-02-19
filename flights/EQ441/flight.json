@@ -1,0 +1,98 @@
+{
+  "flight_number": "EQ441",
+  "date": "2026-03-28",
+  "scheduled_departure_unix": 1774691674,
+  "origin": "JFK",
+  "destination": "CLT",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "KHQR5P",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Lena Porter",
+        "dateOfBirth": "1972-11-04",
+        "documentId": "PKHQR5P537",
+        "seat": "13F",
+        "email": "lena.porter14@yahoo.com",
+        "phone": "+1-253-439-9895"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526725,
+      "updated_at": 1771526725
+    },
+    {
+      "pnr": "XX6YYQ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Zoe Garcia",
+        "dateOfBirth": "1966-04-17",
+        "documentId": "PXX6YYQ111",
+        "seat": "3D",
+        "email": "zoe.garcia47@icloud.com",
+        "phone": "+1-540-567-2789"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526725,
+      "updated_at": 1771526725
+    },
+    {
+      "pnr": "BNJ35E",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Quinn Jordan",
+        "dateOfBirth": "1989-11-07",
+        "documentId": "PBNJ35E198",
+        "seat": "16D",
+        "email": "quinn.jordan88@example.com",
+        "phone": "+1-756-334-6916"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526725,
+      "updated_at": 1771526725
+    },
+    {
+      "pnr": "ALL2UP",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Logan Khan",
+        "dateOfBirth": "1977-02-20",
+        "documentId": "PALL2UP883",
+        "seat": "9F",
+        "email": "logan.khan29@example.com",
+        "phone": "+1-715-411-1712"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526725,
+      "updated_at": 1771526725
+    },
+    {
+      "pnr": "QB3KFE",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Theo Patel",
+        "dateOfBirth": "1997-03-06",
+        "documentId": "PQB3KFE013",
+        "seat": "2B",
+        "email": "theo.patel20@yahoo.com",
+        "phone": "+1-721-626-9531"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526725,
+      "updated_at": 1771526725
+    }
+  ],
+  "created_at": 1771526725,
+  "updated_at": 1771526725,
+  "delay_minutes": 0
+}
