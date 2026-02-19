@@ -1,0 +1,81 @@
+{
+  "flight_number": "GV697",
+  "date": "2026-07-06",
+  "scheduled_departure_unix": 1783296698,
+  "origin": "CLT",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "ABBY9D",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Isaac Keller",
+        "dateOfBirth": "1970-12-02",
+        "documentId": "PABBY9D523",
+        "seat": "4A",
+        "email": "isaac.keller50@yahoo.com",
+        "phone": "+1-493-691-8707"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526716,
+      "updated_at": 1771526716
+    },
+    {
+      "pnr": "TEQFNZ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Logan Diaz",
+        "dateOfBirth": "1975-01-09",
+        "documentId": "PTEQFNZ121",
+        "seat": "10C",
+        "email": "logan.diaz23@gmail.com",
+        "phone": "+1-824-604-2577"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526716,
+      "updated_at": 1771526716
+    },
+    {
+      "pnr": "YL3T2Y",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Theo Xu",
+        "dateOfBirth": "2005-11-16",
+        "documentId": "PYL3T2Y088",
+        "seat": "15C",
+        "email": "theo.xu93@yahoo.com",
+        "phone": "+1-590-389-9213"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526716,
+      "updated_at": 1771526716
+    },
+    {
+      "pnr": "73NZ65",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Theo Keller",
+        "dateOfBirth": "1962-01-27",
+        "documentId": "P73NZ65012",
+        "seat": "12B",
+        "email": "theo.keller17@example.com",
+        "phone": "+1-343-210-4564"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526716,
+      "updated_at": 1771526716
+    }
+  ],
+  "created_at": 1771526716,
+  "updated_at": 1771526716,
+  "delay_minutes": 0
+}
