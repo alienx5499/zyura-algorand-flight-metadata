@@ -1,0 +1,47 @@
+{
+  "flight_number": "RU614",
+  "date": "2026-02-28",
+  "scheduled_departure_unix": 1772263799,
+  "origin": "BWI",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "2Q4WTP",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Zoe Iqbal",
+        "dateOfBirth": "1961-09-30",
+        "documentId": "P2Q4WTP711",
+        "seat": "18A",
+        "email": "zoe.iqbal41@example.com",
+        "phone": "+1-654-789-2082"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526730,
+      "updated_at": 1771526730
+    },
+    {
+      "pnr": "X4RTEN",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Jordan",
+        "dateOfBirth": "1979-03-18",
+        "documentId": "PX4RTEN389",
+        "seat": "17B",
+        "email": "maya.jordan98@outlook.com",
+        "phone": "+1-269-678-9436"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526730,
+      "updated_at": 1771526730
+    }
+  ],
+  "created_at": 1771526730,
+  "updated_at": 1771526730,
+  "delay_minutes": 0
+}
