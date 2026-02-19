@@ -1,0 +1,98 @@
+{
+  "flight_number": "PS282",
+  "date": "2026-07-08",
+  "scheduled_departure_unix": 1783540709,
+  "origin": "DTW",
+  "destination": "SAN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "SJXZJ3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Nico Campbell",
+        "dateOfBirth": "1964-03-01",
+        "documentId": "PSJXZJ3620",
+        "seat": "3E",
+        "email": "nico.campbell14@yahoo.com",
+        "phone": "+1-562-871-0075"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525980,
+      "updated_at": 1771525980
+    },
+    {
+      "pnr": "EZ3M2Y",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Rowan Campbell",
+        "dateOfBirth": "1992-04-05",
+        "documentId": "PEZ3M2Y999",
+        "seat": "19E",
+        "email": "rowan.campbell70@example.com",
+        "phone": "+1-596-525-2798"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525980,
+      "updated_at": 1771525980
+    },
+    {
+      "pnr": "YCJQLQ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Micah Walker",
+        "dateOfBirth": "1994-08-31",
+        "documentId": "PYCJQLQ970",
+        "seat": "10A",
+        "email": "micah.walker62@outlook.com",
+        "phone": "+1-888-434-7816"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525980,
+      "updated_at": 1771525980
+    },
+    {
+      "pnr": "YFSD6P",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Dylan Lopez",
+        "dateOfBirth": "1987-12-12",
+        "documentId": "PYFSD6P945",
+        "seat": "1B",
+        "email": "dylan.lopez35@gmail.com",
+        "phone": "+1-728-324-9992"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525980,
+      "updated_at": 1771525980
+    },
+    {
+      "pnr": "R3EU9E",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Ochoa",
+        "dateOfBirth": "1999-04-21",
+        "documentId": "PR3EU9E047",
+        "seat": "1D",
+        "email": "leah.ochoa49@gmail.com",
+        "phone": "+1-333-234-7391"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525980,
+      "updated_at": 1771525980
+    }
+  ],
+  "created_at": 1771525980,
+  "updated_at": 1771525980,
+  "delay_minutes": 0
+}
