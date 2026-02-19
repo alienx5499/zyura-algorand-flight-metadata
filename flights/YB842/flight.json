@@ -1,0 +1,64 @@
+{
+  "flight_number": "YB842",
+  "date": "2026-07-12",
+  "scheduled_departure_unix": 1783854420,
+  "origin": "SLC",
+  "destination": "BWI",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "83FCBF",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Isaac Keller",
+        "dateOfBirth": "1979-02-06",
+        "documentId": "P83FCBF565",
+        "seat": "22F",
+        "email": "isaac.keller77@icloud.com",
+        "phone": "+1-282-239-2188"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525778,
+      "updated_at": 1771525778
+    },
+    {
+      "pnr": "F7WAW5",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Maya Lawson",
+        "dateOfBirth": "1981-12-20",
+        "documentId": "PF7WAW5455",
+        "seat": "6B",
+        "email": "maya.lawson51@gmail.com",
+        "phone": "+1-581-689-6456"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525778,
+      "updated_at": 1771525778
+    },
+    {
+      "pnr": "N5WBB3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Caleb Thompson",
+        "dateOfBirth": "2002-12-08",
+        "documentId": "PN5WBB3964",
+        "seat": "6D",
+        "email": "caleb.thompson43@example.com",
+        "phone": "+1-387-416-7950"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525778,
+      "updated_at": 1771525778
+    }
+  ],
+  "created_at": 1771525778,
+  "updated_at": 1771525778,
+  "delay_minutes": 0
+}
