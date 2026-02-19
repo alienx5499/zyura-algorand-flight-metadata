@@ -1,0 +1,81 @@
+{
+  "flight_number": "VX619",
+  "date": "2026-07-15",
+  "scheduled_departure_unix": 1784140028,
+  "origin": "DFW",
+  "destination": "ATL",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "7HX68L",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Elena Iqbal",
+        "dateOfBirth": "1963-08-02",
+        "documentId": "P7HX68L760",
+        "seat": "21F",
+        "email": "elena.iqbal62@example.com",
+        "phone": "+1-481-407-5316"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525760,
+      "updated_at": 1771525760
+    },
+    {
+      "pnr": "NV4U7U",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Jordan Hernandez",
+        "dateOfBirth": "1987-03-19",
+        "documentId": "PNV4U7U694",
+        "seat": "21C",
+        "email": "jordan.hernandez31@outlook.com",
+        "phone": "+1-514-795-8675"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525760,
+      "updated_at": 1771525760
+    },
+    {
+      "pnr": "5M23TH",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Luca Nolan",
+        "dateOfBirth": "1999-02-14",
+        "documentId": "P5M23TH471",
+        "seat": "12E",
+        "email": "luca.nolan88@example.com",
+        "phone": "+1-414-784-9422"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525760,
+      "updated_at": 1771525760
+    },
+    {
+      "pnr": "T4LW4A",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Vargas",
+        "dateOfBirth": "1961-05-25",
+        "documentId": "PT4LW4A725",
+        "seat": "24D",
+        "email": "sasha.vargas48@example.com",
+        "phone": "+1-868-524-6520"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525760,
+      "updated_at": 1771525760
+    }
+  ],
+  "created_at": 1771525760,
+  "updated_at": 1771525760,
+  "delay_minutes": 0
+}
