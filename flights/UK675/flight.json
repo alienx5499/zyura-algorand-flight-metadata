@@ -1,0 +1,64 @@
+{
+  "flight_number": "UK675",
+  "date": "2026-05-13",
+  "scheduled_departure_unix": 1778639115,
+  "origin": "FLL",
+  "destination": "MSP",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "QLYX3K",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Morales",
+        "dateOfBirth": "2004-02-26",
+        "documentId": "PQLYX3K973",
+        "seat": "28A",
+        "email": "riley.morales53@yahoo.com",
+        "phone": "+1-719-826-7461"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525761,
+      "updated_at": 1771525761
+    },
+    {
+      "pnr": "YLSGU7",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Isaac Hernandez",
+        "dateOfBirth": "1969-09-03",
+        "documentId": "PYLSGU7691",
+        "seat": "22A",
+        "email": "isaac.hernandez90@gmail.com",
+        "phone": "+1-636-735-2326"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525761,
+      "updated_at": 1771525761
+    },
+    {
+      "pnr": "FVA8E7",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Morgan Morales",
+        "dateOfBirth": "1967-06-19",
+        "documentId": "PFVA8E7537",
+        "seat": "18D",
+        "email": "morgan.morales10@gmail.com",
+        "phone": "+1-789-287-7103"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525761,
+      "updated_at": 1771525761
+    }
+  ],
+  "created_at": 1771525761,
+  "updated_at": 1771525761,
+  "delay_minutes": 0
+}
