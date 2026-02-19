@@ -1,0 +1,30 @@
+{
+  "flight_number": "BM466",
+  "date": "2026-06-26",
+  "scheduled_departure_unix": 1782513705,
+  "origin": "FLL",
+  "destination": "DTW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "3246J3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Riley Anderson",
+        "dateOfBirth": "1957-09-02",
+        "documentId": "P3246J3009",
+        "seat": "6D",
+        "email": "riley.anderson84@icloud.com",
+        "phone": "+1-671-811-2490"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525742,
+      "updated_at": 1771525742
+    }
+  ],
+  "created_at": 1771525742,
+  "updated_at": 1771525742,
+  "delay_minutes": 0
+}
