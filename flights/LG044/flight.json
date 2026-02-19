@@ -1,0 +1,30 @@
+{
+  "flight_number": "LG044",
+  "date": "2026-07-06",
+  "scheduled_departure_unix": 1783339048,
+  "origin": "LAX",
+  "destination": "DEN",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "SMHUXQ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Theo Morales",
+        "dateOfBirth": "2005-01-22",
+        "documentId": "PSMHUXQ698",
+        "seat": "23E",
+        "email": "theo.morales34@outlook.com",
+        "phone": "+1-341-353-7379"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526727,
+      "updated_at": 1771526727
+    }
+  ],
+  "created_at": 1771526727,
+  "updated_at": 1771526727,
+  "delay_minutes": 0
+}
