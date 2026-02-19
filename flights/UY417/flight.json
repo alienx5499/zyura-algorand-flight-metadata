@@ -1,0 +1,64 @@
+{
+  "flight_number": "UY417",
+  "date": "2026-02-26",
+  "scheduled_departure_unix": 1772109868,
+  "origin": "DTW",
+  "destination": "CLT",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "XH33ZB",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Micah Ramirez",
+        "dateOfBirth": "1976-11-06",
+        "documentId": "PXH33ZB199",
+        "seat": "10A",
+        "email": "micah.ramirez34@yahoo.com",
+        "phone": "+1-479-527-2406"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525776,
+      "updated_at": 1771525776
+    },
+    {
+      "pnr": "VT9Z3L",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Zoe Hernandez",
+        "dateOfBirth": "1972-05-15",
+        "documentId": "PVT9Z3L540",
+        "seat": "12F",
+        "email": "zoe.hernandez50@gmail.com",
+        "phone": "+1-256-529-6803"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525776,
+      "updated_at": 1771525776
+    },
+    {
+      "pnr": "GHDT7E",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Kai Morales",
+        "dateOfBirth": "1955-01-25",
+        "documentId": "PGHDT7E380",
+        "seat": "15D",
+        "email": "kai.morales41@yahoo.com",
+        "phone": "+1-741-871-7945"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525776,
+      "updated_at": 1771525776
+    }
+  ],
+  "created_at": 1771525776,
+  "updated_at": 1771525776,
+  "delay_minutes": 0
+}
