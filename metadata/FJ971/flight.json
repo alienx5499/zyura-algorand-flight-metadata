@@ -1,0 +1,47 @@
+{
+  "flight_number": "FJ971",
+  "date": "2026-05-23",
+  "scheduled_departure_unix": 1779533512,
+  "origin": "SEA",
+  "destination": "SFO",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "HRXXLZ",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Taylor Bennett",
+        "dateOfBirth": "1968-02-29",
+        "documentId": "PHRXXLZ238",
+        "seat": "19E",
+        "email": "taylor.bennett52@icloud.com",
+        "phone": "+1-860-404-8727"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525981,
+      "updated_at": 1771525981
+    },
+    {
+      "pnr": "TPLUVY",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Mason Reed",
+        "dateOfBirth": "1981-08-18",
+        "documentId": "PTPLUVY314",
+        "seat": "3F",
+        "email": "mason.reed18@outlook.com",
+        "phone": "+1-744-208-2052"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525981,
+      "updated_at": 1771525981
+    }
+  ],
+  "created_at": 1771525981,
+  "updated_at": 1771525981,
+  "delay_minutes": 0
+}
