@@ -1,0 +1,64 @@
+{
+  "flight_number": "FE274",
+  "date": "2026-07-14",
+  "scheduled_departure_unix": 1784017130,
+  "origin": "IAD",
+  "destination": "DFW",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "N9TKJT",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Leah Patel",
+        "dateOfBirth": "1987-11-10",
+        "documentId": "PN9TKJT121",
+        "seat": "23D",
+        "email": "leah.patel91@gmail.com",
+        "phone": "+1-582-857-1979"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526733,
+      "updated_at": 1771526733
+    },
+    {
+      "pnr": "YVXYR4",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Theo Garcia",
+        "dateOfBirth": "1993-04-18",
+        "documentId": "PYVXYR4408",
+        "seat": "18B",
+        "email": "theo.garcia72@outlook.com",
+        "phone": "+1-684-835-0400"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526733,
+      "updated_at": 1771526733
+    },
+    {
+      "pnr": "3UQ3FV",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Rowan Porter",
+        "dateOfBirth": "1997-09-03",
+        "documentId": "P3UQ3FV663",
+        "seat": "26E",
+        "email": "rowan.porter51@example.com",
+        "phone": "+1-223-571-2628"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771526733,
+      "updated_at": 1771526733
+    }
+  ],
+  "created_at": 1771526733,
+  "updated_at": 1771526733,
+  "delay_minutes": 0
+}
