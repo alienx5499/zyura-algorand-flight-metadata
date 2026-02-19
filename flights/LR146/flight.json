@@ -1,0 +1,64 @@
+{
+  "flight_number": "LR146",
+  "date": "2026-04-29",
+  "scheduled_departure_unix": 1777441690,
+  "origin": "CLT",
+  "destination": "FLL",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "5MC4H3",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Hernandez",
+        "dateOfBirth": "1964-03-14",
+        "documentId": "P5MC4H3216",
+        "seat": "19C",
+        "email": "sasha.hernandez57@icloud.com",
+        "phone": "+1-281-604-3296"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525771,
+      "updated_at": 1771525771
+    },
+    {
+      "pnr": "6VY9LX",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Aria Nguyen",
+        "dateOfBirth": "2003-03-14",
+        "documentId": "P6VY9LX909",
+        "seat": "5E",
+        "email": "aria.nguyen44@icloud.com",
+        "phone": "+1-394-455-7456"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525771,
+      "updated_at": 1771525771
+    },
+    {
+      "pnr": "NREAVX",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Taylor Simmons",
+        "dateOfBirth": "2005-06-24",
+        "documentId": "PNREAVX854",
+        "seat": "11C",
+        "email": "taylor.simmons96@outlook.com",
+        "phone": "+1-587-373-1472"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771525771,
+      "updated_at": 1771525771
+    }
+  ],
+  "created_at": 1771525771,
+  "updated_at": 1771525771,
+  "delay_minutes": 0
+}
