@@ -1,0 +1,47 @@
+{
+  "flight_number": "UK534",
+  "date": "2026-02-27",
+  "scheduled_departure_unix": 1772209891,
+  "origin": "ATL",
+  "destination": "LAS",
+  "status": "scheduled",
+  "pnrs": [
+    {
+      "pnr": "CUDC7M",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Quinn Hernandez",
+        "dateOfBirth": "1960-10-04",
+        "documentId": "PCUDC7M180",
+        "seat": "12B",
+        "email": "quinn.hernandez76@icloud.com",
+        "phone": "+1-450-317-8859"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504181,
+      "updated_at": 1771504181
+    },
+    {
+      "pnr": "8QM25H",
+      "policyId": "NA",
+      "policyholder": "NA",
+      "wallet": "NA",
+      "passenger": {
+        "fullName": "Sasha Diaz",
+        "dateOfBirth": "1976-06-02",
+        "documentId": "P8QM25H022",
+        "seat": "7D",
+        "email": "sasha.diaz31@yahoo.com",
+        "phone": "+1-598-853-6098"
+      },
+      "nft_metadata_url": "NA",
+      "created_at": 1771504181,
+      "updated_at": 1771504181
+    }
+  ],
+  "created_at": 1771504181,
+  "updated_at": 1771504181,
+  "delay_minutes": 0
+}
