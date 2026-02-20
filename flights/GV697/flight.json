@@ -1,27 +1,32 @@
 {
   "flight_number": "GV697",
   "date": "2026-07-06",
-  "scheduled_departure_unix": 1783296698,
-  "origin": "CLT",
-  "destination": "DFW",
+  "scheduled_departure_unix": 1783296660,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "ABBY9D",
-      "policyId": "NA",
+      "policyId": 549523,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
+        "name": "Isaac Keller",
         "fullName": "Isaac Keller",
-        "dateOfBirth": "1970-12-02",
-        "documentId": "PABBY9D523",
-        "seat": "4A",
         "email": "isaac.keller50@yahoo.com",
-        "phone": "+1-493-691-8707"
+        "phone": "+1-493-691-8707",
+        "phone_number": "+1-493-691-8707",
+        "date_of_birth": "1970-12-02",
+        "dateOfBirth": "1970-12-02",
+        "passport_number": "PABBY9D523",
+        "documentId": "PABBY9D523",
+        "address": null,
+        "seat": "4A",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771526716,
-      "updated_at": 1771526716
+      "nft_metadata_url": "https://is.gd/JAn0Fy",
+      "created_at": 1771549539,
+      "updated_at": 1771549539
     },
     {
       "pnr": "TEQFNZ",
@@ -76,6 +81,5 @@
     }
   ],
   "created_at": 1771526716,
-  "updated_at": 1771526716,
-  "delay_minutes": 0
+  "updated_at": 1771549539
 }
