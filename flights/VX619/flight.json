@@ -1,27 +1,32 @@
 {
   "flight_number": "VX619",
   "date": "2026-07-15",
-  "scheduled_departure_unix": 1784140028,
-  "origin": "DFW",
-  "destination": "ATL",
+  "scheduled_departure_unix": 1784140020,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "7HX68L",
-      "policyId": "NA",
+      "policyId": 556218,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
+        "name": "Elena Iqbal",
         "fullName": "Elena Iqbal",
-        "dateOfBirth": "1963-08-02",
-        "documentId": "P7HX68L760",
-        "seat": "21F",
         "email": "elena.iqbal62@example.com",
-        "phone": "+1-481-407-5316"
+        "phone": "+1-481-407-5316",
+        "phone_number": "+1-481-407-5316",
+        "date_of_birth": "1963-08-02",
+        "dateOfBirth": "1963-08-02",
+        "passport_number": "P7HX68L760",
+        "documentId": "P7HX68L760",
+        "address": null,
+        "seat": "21F",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771525760,
-      "updated_at": 1771525760
+      "nft_metadata_url": "https://is.gd/e9XWtK",
+      "created_at": 1771556249,
+      "updated_at": 1771556249
     },
     {
       "pnr": "NV4U7U",
@@ -76,6 +81,5 @@
     }
   ],
   "created_at": 1771525760,
-  "updated_at": 1771525760,
-  "delay_minutes": 0
+  "updated_at": 1771556249
 }
