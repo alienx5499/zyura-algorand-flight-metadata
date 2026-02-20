@@ -2,7 +2,7 @@
   "flight_number": "GV697",
   "date": "2026-07-06",
   "scheduled_departure_unix": 1783296660,
-  "status": "scheduled",
+  "status": "departed",
   "pnrs": [
     {
       "pnr": "ABBY9D",
@@ -81,5 +81,7 @@
     }
   ],
   "created_at": 1771526716,
-  "updated_at": 1771549539
+  "updated_at": 1771554970,
+  "actual_departure_unix": 1783301160,
+  "delay_minutes": 75
 }
