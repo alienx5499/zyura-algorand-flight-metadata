@@ -1,27 +1,32 @@
 {
   "flight_number": "UY417",
   "date": "2026-02-26",
-  "scheduled_departure_unix": 1772109868,
-  "origin": "DTW",
-  "destination": "CLT",
+  "scheduled_departure_unix": 1772109840,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "XH33ZB",
-      "policyId": "NA",
+      "policyId": 590537,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "IJ4EOFWUKA3MKJVJ2FUPTLW2QWHLY2PYVZOBKQC5QRRNC7DLN7KIFFJGKE",
       "passenger": {
+        "name": "Micah Ramirez",
         "fullName": "Micah Ramirez",
-        "dateOfBirth": "1976-11-06",
-        "documentId": "PXH33ZB199",
-        "seat": "10A",
         "email": "micah.ramirez34@yahoo.com",
-        "phone": "+1-479-527-2406"
+        "phone": "+1-479-527-2406",
+        "phone_number": "+1-479-527-2406",
+        "date_of_birth": "1976-11-06",
+        "dateOfBirth": "1976-11-06",
+        "passport_number": "PXH33ZB199",
+        "documentId": "PXH33ZB199",
+        "address": null,
+        "seat": "10A",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771525776,
-      "updated_at": 1771525776
+      "nft_metadata_url": "https://is.gd/BO5DgT",
+      "created_at": 1771590553,
+      "updated_at": 1771590553
     },
     {
       "pnr": "VT9Z3L",
@@ -59,6 +64,5 @@
     }
   ],
   "created_at": 1771525776,
-  "updated_at": 1771525776,
-  "delay_minutes": 0
+  "updated_at": 1771590553
 }
