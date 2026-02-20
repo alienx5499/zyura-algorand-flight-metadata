@@ -1,27 +1,32 @@
 {
   "flight_number": "RS422",
   "date": "2026-04-05",
-  "scheduled_departure_unix": 1775423242,
-  "origin": "SFO",
-  "destination": "ORD",
+  "scheduled_departure_unix": 1775423220,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "REXWH7",
-      "policyId": "NA",
+      "policyId": 590186,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
+        "name": "Jordan Foster",
         "fullName": "Jordan Foster",
-        "dateOfBirth": "1959-12-24",
-        "documentId": "PREXWH7007",
-        "seat": "1F",
         "email": "jordan.foster39@gmail.com",
-        "phone": "+1-649-575-5071"
+        "phone": "+1-649-575-5071",
+        "phone_number": "+1-649-575-5071",
+        "date_of_birth": "1959-12-24",
+        "dateOfBirth": "1959-12-24",
+        "passport_number": "PREXWH7007",
+        "documentId": "PREXWH7007",
+        "address": null,
+        "seat": "1F",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771525758,
-      "updated_at": 1771525758
+      "nft_metadata_url": "https://is.gd/JzU5OQ",
+      "created_at": 1771590198,
+      "updated_at": 1771590198
     },
     {
       "pnr": "2JNHEM",
@@ -76,6 +81,5 @@
     }
   ],
   "created_at": 1771525758,
-  "updated_at": 1771525758,
-  "delay_minutes": 0
+  "updated_at": 1771590198
 }
