@@ -2,7 +2,7 @@
   "flight_number": "VX619",
   "date": "2026-07-15",
   "scheduled_departure_unix": 1784140020,
-  "status": "scheduled",
+  "status": "departed",
   "pnrs": [
     {
       "pnr": "7HX68L",
@@ -95,5 +95,7 @@
     }
   ],
   "created_at": 1771525760,
-  "updated_at": 1771557238
+  "updated_at": 1771578419,
+  "actual_departure_unix": 1784144520,
+  "delay_minutes": 75
 }
