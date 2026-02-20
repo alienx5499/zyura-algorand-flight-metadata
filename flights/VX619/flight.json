@@ -30,20 +30,27 @@
     },
     {
       "pnr": "NV4U7U",
-      "policyId": "NA",
+      "policyId": 556744,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
+        "name": "Jordan Hernandez",
         "fullName": "Jordan Hernandez",
-        "dateOfBirth": "1987-03-19",
-        "documentId": "PNV4U7U694",
-        "seat": "21C",
         "email": "jordan.hernandez31@outlook.com",
-        "phone": "+1-514-795-8675"
+        "phone": "+1-514-795-8675",
+        "phone_number": "+1-514-795-8675",
+        "date_of_birth": "1987-03-19",
+        "dateOfBirth": "1987-03-19",
+        "passport_number": "PNV4U7U694",
+        "documentId": "PNV4U7U694",
+        "address": null,
+        "seat": "21C",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771525760,
-      "updated_at": 1771525760
+      "nft_metadata_url": "https://is.gd/wn4isr",
+      "created_at": 1771556758,
+      "updated_at": 1771556758
     },
     {
       "pnr": "5M23TH",
@@ -81,5 +88,5 @@
     }
   ],
   "created_at": 1771525760,
-  "updated_at": 1771556249
+  "updated_at": 1771556758
 }
