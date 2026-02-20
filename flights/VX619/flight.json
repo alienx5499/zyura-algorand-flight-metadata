@@ -71,22 +71,29 @@
     },
     {
       "pnr": "T4LW4A",
-      "policyId": "NA",
+      "policyId": 557222,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
+        "name": "Sasha Vargas",
         "fullName": "Sasha Vargas",
-        "dateOfBirth": "1961-05-25",
-        "documentId": "PT4LW4A725",
-        "seat": "24D",
         "email": "sasha.vargas48@example.com",
-        "phone": "+1-868-524-6520"
+        "phone": "+1-868-524-6520",
+        "phone_number": "+1-868-524-6520",
+        "date_of_birth": "1961-05-25",
+        "dateOfBirth": "1961-05-25",
+        "passport_number": "PT4LW4A725",
+        "documentId": "PT4LW4A725",
+        "address": null,
+        "seat": "24D",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771525760,
-      "updated_at": 1771525760
+      "nft_metadata_url": "https://is.gd/jwp00I",
+      "created_at": 1771557238,
+      "updated_at": 1771557238
     }
   ],
   "created_at": 1771525760,
-  "updated_at": 1771556758
+  "updated_at": 1771557238
 }
