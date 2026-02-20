@@ -1,30 +1,34 @@
 {
   "flight_number": "LG044",
   "date": "2026-07-06",
-  "scheduled_departure_unix": 1783339048,
-  "origin": "LAX",
-  "destination": "DEN",
+  "scheduled_departure_unix": 1783339020,
   "status": "scheduled",
   "pnrs": [
     {
       "pnr": "SMHUXQ",
-      "policyId": "NA",
+      "policyId": 548034,
       "policyholder": "NA",
-      "wallet": "NA",
+      "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
+        "name": "Theo Morales",
         "fullName": "Theo Morales",
-        "dateOfBirth": "2005-01-22",
-        "documentId": "PSMHUXQ698",
-        "seat": "23E",
         "email": "theo.morales34@outlook.com",
-        "phone": "+1-341-353-7379"
+        "phone": "+1-341-353-7379",
+        "phone_number": "+1-341-353-7379",
+        "date_of_birth": "2005-01-22",
+        "dateOfBirth": "2005-01-22",
+        "passport_number": "PSMHUXQ698",
+        "documentId": "PSMHUXQ698",
+        "address": null,
+        "seat": "23E",
+        "class": null,
+        "classType": null
       },
-      "nft_metadata_url": "NA",
-      "created_at": 1771526727,
-      "updated_at": 1771526727
+      "nft_metadata_url": "https://is.gd/t3CuML",
+      "created_at": 1771548050,
+      "updated_at": 1771548050
     }
   ],
   "created_at": 1771526727,
-  "updated_at": 1771526727,
-  "delay_minutes": 0
+  "updated_at": 1771548050
 }
