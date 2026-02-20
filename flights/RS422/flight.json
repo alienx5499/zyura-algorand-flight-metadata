@@ -6,7 +6,7 @@
   "pnrs": [
     {
       "pnr": "REXWH7",
-      "policyId": 590186,
+      "policyId": 590250,
       "policyholder": "NA",
       "wallet": "YY7DHTXNRUWIRE7MWIG5FBJO3GCXUGI23S6CD3PNF5RIY3ZAZWH33PXEX4",
       "passenger": {
@@ -24,9 +24,9 @@
         "class": null,
         "classType": null
       },
-      "nft_metadata_url": "https://is.gd/JzU5OQ",
-      "created_at": 1771590198,
-      "updated_at": 1771590198
+      "nft_metadata_url": "https://is.gd/GQWEh7",
+      "created_at": 1771590262,
+      "updated_at": 1771590262
     },
     {
       "pnr": "2JNHEM",
@@ -81,5 +81,5 @@
     }
   ],
   "created_at": 1771525758,
-  "updated_at": 1771590198
+  "updated_at": 1771590262
 }
